@@ -37,10 +37,10 @@ Baixe ou clone este projeto para sua máquina.
 
 ### Configurar o Wordpress
 
-No arquivo wp-config.php, configure os dados do banco como o exemplo a baixo, colocando o nome do seu banco onde está ***nome_do_seu_banco***:
+No arquivo wp-config.php, configure os dados do banco como o exemplo a baixo:
 
 ```php
-define('DB_NAME', 'nome_do_seu_banco');
+define('DB_NAME', 'wordpressdb');
 /** Usuário do banco de dados MySQL */
 define('DB_USER', 'dbuser');
 /** Senha do banco de dados MySQL */
