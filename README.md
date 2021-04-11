@@ -1,4 +1,6 @@
-Projeto base wordpress, feito para iniciar um projeto novo ou para rodar um já existente
+Projeto base Wordpress
+- User para iniciar um projeto novo; 
+- Ou para rodar um já existente.
 
 ## Sumário
 
