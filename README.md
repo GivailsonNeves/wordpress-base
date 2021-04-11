@@ -26,10 +26,12 @@ Baixe ou clone este projeto para sua máquina.
 1. Baixe o wordpress e descompacte o conteúdo na pasta **wordpress**.
 2. Configure o [wp-config.php](#configurar-o-wordpress)
 
-### Novo projeto: 
+### Projeto antigo: 
 1. Baixe todos os arquivos do site e coloque na pasta **wordpress**.
 2. Configure o [wp-config.php](#configurar-o-wordpress)
 3. Coloque o dump do banco de dados (arquivo sql) dentro da pasta **dump**.
+
+> Se tudo estiver correto com a execução, o arquivo dump, será executado o banco será totalmente clonado.
 
 ### Configurar o Wordpress
 
