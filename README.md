@@ -72,4 +72,5 @@ Acesse a URL do phpmyadmin:
 
 - [Requisitos para execução do projeto](#requisitos-para-execução-do-projeto)
 - [Tecnologias em destaque](#tecnologias-em-destaque)
-- [Como utilizar](#como-utilizar)
+- [Configurar o projeto](#configurar-o-projeto)
+- [Executar o projeto](#executar-o-projeto)
