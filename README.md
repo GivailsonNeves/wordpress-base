@@ -53,7 +53,9 @@ define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 ```
 
-> Se desejar utilizar outros valores para login e senha, lembre de atualizar o arquivo ***docker-compose.yml***
+> Se desejar utilizar outros valores para login e senha, lembre de atualizar o arquivo ***docker-compose.yml***.
+
+> Não mexa no campo **DB_HOST** a menos que saiba, o que esta fazendo
 
 ## Executar o projeto
 
